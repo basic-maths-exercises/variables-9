@@ -16,4 +16,4 @@ class UnitTests(unittest.TestCase) :
        assert( vc.check_vars( "timesTable", x ) )
 
     def test_output(self) : 
-       assert( vc.check_output("0 7 14 21 28 35 42 49 56 63 70") )
+       assert( vc.check_output("7\\n0.0 7.0 14.0 21.0 28.0 35.0 42.0 49.0 56.0 63.0 70.0") )
