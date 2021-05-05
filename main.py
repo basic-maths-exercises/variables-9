@@ -16,4 +16,4 @@ timesTable[9]  = 9*table
 timesTable[10]  = 10*table
 
 print(table)
-print(timesTable)
+print(timesTable[0],timesTable[1],timesTable[2],timesTable[3],timesTable[4],timesTable[5],timesTable[6],timesTable[7],timesTable[8],timesTable[9],timesTable[10])
